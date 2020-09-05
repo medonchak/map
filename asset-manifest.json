@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/medonchak/map/static/css/main.e721a452.chunk.css",
+    "main.js": "/medonchak/map/static/js/main.23cb8d14.chunk.js",
+    "main.js.map": "/medonchak/map/static/js/main.23cb8d14.chunk.js.map",
+    "runtime-main.js": "/medonchak/map/static/js/runtime-main.848e42eb.js",
+    "runtime-main.js.map": "/medonchak/map/static/js/runtime-main.848e42eb.js.map",
+    "static/js/2.9f35f00e.chunk.js": "/medonchak/map/static/js/2.9f35f00e.chunk.js",
+    "static/js/2.9f35f00e.chunk.js.map": "/medonchak/map/static/js/2.9f35f00e.chunk.js.map",
+    "index.html": "/medonchak/map/index.html",
+    "precache-manifest.f1f965c7760e20e0bd19108c71a03cf0.js": "/medonchak/map/precache-manifest.f1f965c7760e20e0bd19108c71a03cf0.js",
+    "service-worker.js": "/medonchak/map/service-worker.js",
+    "static/css/main.e721a452.chunk.css.map": "/medonchak/map/static/css/main.e721a452.chunk.css.map",
+    "static/js/2.9f35f00e.chunk.js.LICENSE.txt": "/medonchak/map/static/js/2.9f35f00e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.848e42eb.js",
+    "static/js/2.9f35f00e.chunk.js",
+    "static/css/main.e721a452.chunk.css",
+    "static/js/main.23cb8d14.chunk.js"
+  ]
+}
