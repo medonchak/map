@@ -1,0 +1,16 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+}
+.items{
+    margin:5px;
+    text-decoration: none;
+   
+}
+.items:hover{
+    background-color: red;
+}
+.block{
+    margin: 15px;
+}

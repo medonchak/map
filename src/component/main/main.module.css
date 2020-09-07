@@ -1,0 +1,11 @@
+.menu{
+   position: absolute;
+   display: flex;
+   top: 10%;
+}
+.but{
+   width: 100px;
+}
+.select{
+   height: 20px;
+}
